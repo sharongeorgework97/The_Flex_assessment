@@ -1,0 +1,226 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 7453,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Shane and family are wonderful guests! Very respectful and would definitely host again. Left the place spotless.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "respect_house_rules", "rating": 10}
+      ],
+      "submittedAt": "2020-08-21 22:45:14",
+      "guestName": "Shane Finkelstein",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 8721,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Amazing location in the heart of Shoreditch! The apartment was exactly as described - modern, clean, and very well-equipped. Host was super responsive.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 8},
+        {"category": "check_in", "rating": 9}
+      ],
+      "submittedAt": "2023-11-15 14:30:22",
+      "guestName": "Emma Thompson",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 9234,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Great stay overall! The loft has character and the location can't be beaten. Only minor issue was some noise from the street at night.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 8},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 7},
+        {"category": "accuracy", "rating": 8}
+      ],
+      "submittedAt": "2023-10-05 09:15:33",
+      "guestName": "Marcus Johnson",
+      "listingName": "1B E1 Premium - Brick Lane Loft"
+    },
+    {
+      "id": 9876,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Absolutely perfect stay! This loft exceeded all expectations. Beautifully designed, impeccably clean, and the host went above and beyond.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 10},
+        {"category": "accuracy", "rating": 10},
+        {"category": "check_in", "rating": 10}
+      ],
+      "submittedAt": "2024-01-20 16:42:11",
+      "guestName": "Sarah Chen",
+      "listingName": "1B E1 Premium - Brick Lane Loft"
+    },
+    {
+      "id": 10123,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Decent studio for a short stay. Location is convenient for transport links. Could use some updates to the bathroom.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 7},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 6},
+        {"category": "accuracy", "rating": 7}
+      ],
+      "submittedAt": "2023-09-12 11:20:45",
+      "guestName": "David Wilson",
+      "listingName": "Studio N7 - Kings Cross Modern"
+    },
+    {
+      "id": 10456,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Lovely compact studio with everything you need. Great for exploring London - Kings Cross station is so close!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 9},
+        {"category": "check_in", "rating": 8}
+      ],
+      "submittedAt": "2024-02-28 13:55:17",
+      "guestName": "Lisa Rodriguez",
+      "listingName": "Studio N7 - Kings Cross Modern"
+    },
+    {
+      "id": 10789,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "WOW! This penthouse is incredible. The views, the space, the amenities - everything was perfect. Worth every penny for a special occasion.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 9},
+        {"category": "accuracy", "rating": 10},
+        {"category": "check_in", "rating": 10}
+      ],
+      "submittedAt": "2023-12-31 20:10:30",
+      "guestName": "Michael & Jennifer Adams",
+      "listingName": "3B SE1 - London Bridge Penthouse"
+    },
+    {
+      "id": 11012,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 6,
+      "publicReview": "Nice apartment but had some issues. WiFi was intermittent and the heating took a while to warm up. Location is great though.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 8},
+        {"category": "communication", "rating": 7},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 5},
+        {"category": "accuracy", "rating": 6}
+      ],
+      "submittedAt": "2023-11-08 08:33:21",
+      "guestName": "Robert Taylor",
+      "listingName": "2B W1 - Oxford Street Central"
+    },
+    {
+      "id": 11345,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Good central location for shopping and dining. Apartment was clean and well-maintained. Would stay again!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 8},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 7},
+        {"category": "accuracy", "rating": 8},
+        {"category": "check_in", "rating": 8}
+      ],
+      "submittedAt": "2024-03-15 19:25:44",
+      "guestName": "Sophie Martinez",
+      "listingName": "2B W1 - Oxford Street Central"
+    },
+    {
+      "id": 11678,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Emma was a fantastic guest! Great communication and left the apartment in perfect condition. Welcome back anytime!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "respect_house_rules", "rating": 10}
+      ],
+      "submittedAt": "2023-11-17 10:15:32",
+      "guestName": "Emma Thompson",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 11999,
+      "type": "guest-to-host",
+      "status": "pending",
+      "rating": 9,
+      "publicReview": "Just checked out and had an amazing stay! The penthouse has everything you could want and more. The rooftop terrace is a dream.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 8},
+        {"category": "accuracy", "rating": 10}
+      ],
+      "submittedAt": "2024-03-20 14:22:18",
+      "guestName": "Alex Thompson",
+      "listingName": "3B SE1 - London Bridge Penthouse"
+    },
+    {
+      "id": 12234,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Unfortunately had several issues during our stay. Hot water problems and cleanliness wasn't up to standard. Host was responsive to fix issues though.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 4},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 8},
+        {"category": "value", "rating": 3},
+        {"category": "accuracy", "rating": 5}
+      ],
+      "submittedAt": "2023-08-14 16:45:22",
+      "guestName": "James Peterson",
+      "listingName": "Studio N7 - Kings Cross Modern"
+    },
+    {
+      "id": 12567,
+      "type": "guest-to-host",
+      "status": "hidden",
+      "rating": 3,
+      "publicReview": "Very disappointed with this stay. Multiple maintenance issues and property didn't match photos.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 3},
+        {"category": "communication", "rating": 5},
+        {"category": "location", "rating": 7},
+        {"category": "value", "rating": 2},
+        {"category": "accuracy", "rating": 2}
+      ],
+      "submittedAt": "2023-07-22 12:30:15",
+      "guestName": "Karen Williams",
+      "listingName": "1B E1 Premium - Brick Lane Loft"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "2b-n1-a-29-shoreditch-heights",
+    "name": "2B N1 A - 29 Shoreditch Heights",
+    "address": "29 Shoreditch High Street, London, E1 6LD",
+    "type": "apartment",
+    "bedrooms": 2,
+    "area": "Shoreditch",
+    "city": "London",
+    "country": "UK",
+    "googlePlaceId": "ChIJ2z8h9nYdgUYRyuLzPOzANiM"
+  },
+  {
+    "slug": "1b-e1-premium-brick-lane-loft",
+    "name": "1B E1 Premium - Brick Lane Loft",
+    "address": "15 Brick Lane, London, E1 6RF",
+    "type": "loft",
+    "bedrooms": 1,
+    "area": "Brick Lane",
+    "city": "London",
+    "country": "UK",
+    "googlePlaceId": "ChIJ5z8Y9nYdgUYRyuRFPOzANiM"
+  },
+  {
+    "slug": "studio-n7-kings-cross-modern",
+    "name": "Studio N7 - Kings Cross Modern",
+    "address": "42 Kings Cross Road, London, N1 9UY",
+    "type": "studio",
+    "bedrooms": 0,
+    "area": "Kings Cross",
+    "city": "London",
+    "country": "UK",
+    "googlePlaceId": "ChIJ3z8L9nYdgUYRyuPGPOzANiM"
+  },
+  {
+    "slug": "3b-se1-london-bridge-penthouse",
+    "name": "3B SE1 - London Bridge Penthouse",
+    "address": "88 London Bridge Street, London, SE1 9SG",
+    "type": "penthouse",
+    "bedrooms": 3,
+    "area": "London Bridge",
+    "city": "London",
+    "country": "UK",
+    "googlePlaceId": "ChIJ4z8K9nYdgUYRyuWXPOzANiM"
+  },
+  {
+    "slug": "2b-w1-oxford-street-central",
+    "name": "2B W1 - Oxford Street Central",
+    "address": "123 Oxford Street, London, W1D 2HX",
+    "type": "apartment",
+    "bedrooms": 2,
+    "area": "Oxford Street",
+    "city": "London",
+    "country": "UK",
+    "googlePlaceId": "ChIJ1z8P9nYdgUYRyuTMPOzANiM"
+  },
+  {
+    "slug": "2b-algiers-casbah-view",
+    "name": "2B Algiers - Casbah View",
+    "address": "15 Rue de la Casbah, Algiers, Algeria",
+    "type": "apartment",
+    "bedrooms": 2,
+    "area": "Casbah",
+    "city": "Algiers",
+    "country": "Algeria",
+    "googlePlaceId": "ChIJ8z8K9nYdgUYRyuWXPOzANiM"
+  },
+  {
+    "slug": "1b-algiers-hamra-luxury",
+    "name": "1B Algiers - Hamra Luxury",
+    "address": "42 Avenue Hamra, Algiers, Algeria",
+    "type": "apartment",
+    "bedrooms": 1,
+    "area": "Hamra",
+    "city": "Algiers",
+    "country": "Algeria",
+    "googlePlaceId": "ChIJ9z8L9nYdgUYRyuPGPOzANiM"
+  },
+  {
+    "slug": "studio-algiers-bay-view",
+    "name": "Studio Algiers - Bay View",
+    "address": "88 Boulevard de la Mer, Algiers, Algeria",
+    "type": "studio",
+    "bedrooms": 0,
+    "area": "Bay Area",
+    "city": "Algiers",
+    "country": "Algeria",
+    "googlePlaceId": "ChIJ0z8P9nYdgUYRyuTMPOzANiM"
+  }
+]
